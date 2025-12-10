@@ -1,8 +1,8 @@
 {
-  "name": "medicover e-mails",
+  "name": "johnson&johnson e-mails",
   "version": "1.0.0",
   "description": "",
-  "repository": "Andrzej-Pyrowicz/medicover-email",
+  "repository": "oliwerAR/johnson-and-johnson-email",
   "main": "gulpfile.babel.js",
   "scripts": {
     "start": "gulp",
@@ -11,7 +11,7 @@
     "litmus": "gulp litmus --production",
     "mail": "gulp mail --production"
   },
-  "author": "Andrzej Pyrowicz <a.pyrowicz@artefact.pl>",
+  "author": "Oliwer Hawlicki <o.hawlicki@artefact.pl>",
   "license": "UNLICENSED",
   "dependencies": {
     "foundation-emails": "^2.4.0"
