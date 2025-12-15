@@ -45,6 +45,10 @@ h6,
     line-height: $header-line-height;
 }
 
+a {
+    color: $secondary-color;
+    text-decoration: none !important;
+}
 
 .hide {
     display: none;
